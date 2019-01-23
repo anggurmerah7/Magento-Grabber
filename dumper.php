@@ -1,6 +1,5 @@
 <?php
 error_reporting(1);
-
 $a = new MAGENTO();
 
 echo $a->MailDump();
