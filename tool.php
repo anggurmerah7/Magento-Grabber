@@ -30,7 +30,6 @@ STUPIDC0DE |                    :       |   ||
           .-~  ___.         __.--~`--.))))     |   `---.)))
        `---~~     `-...--.________)))))       \_____)))))
 </pre>';
-
 /** info kernel */
 echo"
 <title> Magentools (c) sc0 family 2k17 </title>
