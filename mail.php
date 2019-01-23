@@ -1,10 +1,7 @@
 <?php 
 
-
 /* 
 Inbox Mass Mailer 
-
-
 */ 
 $upload = $_GET["upload"];  
 if ($upload == "up" ) { 
