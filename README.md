@@ -3,9 +3,7 @@
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-oaKnO3I-RPE/XDAz1CVwohI/AAAAAAAABFA/wnd-o8SSPkc3dIDvivP7ruD0yQ8MLi-KwCLcBGAs/s1600/Screenshot_1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://4.bp.blogspot.com/-oaKnO3I-RPE/XDAz1CVwohI/AAAAAAAABFA/wnd-o8SSPkc3dIDvivP7ruD0yQ8MLi-KwCLcBGAs/s640/Screenshot_1.jpg" width="640" /></a></div>
 <br />
--added submenu<br />
--get content dump, viewinfo, create mailer<br />
--view dateabase mysql, date order, method payment, ccinfo, Authorizenet akun, smtP <br />
+
 <div style="text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
